@@ -1,7 +1,7 @@
 //TP#Final — Aventura Gráfica Interactiva Web [2
 //Alan Giammarco 92814/9
 //Juan Casteran 93060/3
-//
+//https://youtu.be/YAbu4Dlz210?feature=shared
 
 let objJuego;
 let imagen; // intro
