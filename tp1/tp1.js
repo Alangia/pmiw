@@ -1,6 +1,7 @@
 // Alumno: Alan Giammarco
 // Comision: 3
 // tp:1
+// link video: https://youtu.be/W49NTt5hP5w?si=DPeKH5X6bMEj67zq
 
 let ilusion;
 let mostrarLineas = true;
@@ -57,4 +58,5 @@ function mouseClicked() {
   redraw();  
   image(ilusion, 0, 0);
 }
+
 
